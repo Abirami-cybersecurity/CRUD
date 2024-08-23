@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "66c635194362b6af9156af47"
+  },
+  "name": "Abirami",
+  "email": "abiramiravananvit@gmail.com",
+  "phone": "6383195240",
+  "image": "image_1724265753609_myImage.jpg",
+  "created": {
+    "$date": "2024-08-21T18:41:51.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c849e91947c4a0af100766"
+  },
+  "name": "Kanimozhi",
+  "email": "kani@gmail.com",
+  "phone": "6383195230",
+  "image": "image_1724402153824_2023-08-08 08_44_42-Window.png",
+  "created": {
+    "$date": "2024-08-23T06:40:16.449Z"
+  },
+  "__v": 0
+}]
